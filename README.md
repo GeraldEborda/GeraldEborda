@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ POGI LANG ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ POGI LANG ...<br>📚 I'm currently learning ...<br>🎯 Goals: Kaya pa cguro ...<br>🎲 Fun fact: cute ...</p>
 
 ###
 
