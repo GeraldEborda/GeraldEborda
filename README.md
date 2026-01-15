@@ -1,10 +1,12 @@
 <h1 align="center">Hey 👋What's Up?</h1>
+<h1> Cute lang </h1>
 
 ###
 
 <div align="center">
   
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+
   <img width="12" />
   
 </div>
