@@ -37,17 +37,6 @@ I am student at the University of Mindanao pursuing BSIT program. I am Learning 
   <a href="tel:09945201366">
     <img src="https://img.shields.io/badge/Phone-09945201366-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/>
   </a>
-</div><div align="center">
-  <h3>📫 Connect with Me</h3>
-
-  <a href="mailto:nightmaredelucked@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nightmaredelucked@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
-  </a>
-
-  <img width="8"/>
-
-  <a href="tel:09945201366">
-    <img src="https://img.shields.io/badge/Phone-09945201366-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/>
-  </a>
+ 
 </div>
 
